@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class VacancyGrabberApplication {
 
     public static void main(String[] args) {
+        System.out.println("тест");
         SpringApplication.run(VacancyGrabberApplication.class, args);
     }
 
